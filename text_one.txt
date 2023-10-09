@@ -2,3 +2,4 @@ Goal for this class:
 + Know more about Python 
 + Knowledge to apply for internship interview
 + Make more friends and form meaningful connection
++ Run one mile
